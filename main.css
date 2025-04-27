@@ -1,0 +1,39 @@
+body {
+    background: #203354;
+    font-family: "Cal Sans";
+}
+
+.h {
+    border: transparent;
+    background-color: transparent;
+    font-weight: 1000;
+    color: #ff5733;
+    font-size: 80px;
+    letter-spacing: 2.5px;
+    padding-left: 25px;
+}
+
+.d {
+    padding-left: 20px;
+    color: white;
+}
+
+.a {
+    display: flex;
+}
+
+.idk {
+    padding-left: 25px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.idkq {
+    padding-left: 25px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.cool {
+    color: #ff5733;
+}
