@@ -16,9 +16,9 @@ function HtmtoCss() {
 
     html.addEventListener("click", function() {
         if (true) {
-            de.style.color = "#663399"
+            d.style.color = "#663399"
             f.style.color = "#333333"
-            p.style.color = "#333333"
+            p.style.color = "#663399"
             back.style.backgroundColor = "#E6E6FA"
             html.style.color = "#663399";
             html.innerHTML = ("CSS");
